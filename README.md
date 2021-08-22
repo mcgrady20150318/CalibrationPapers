@@ -32,6 +32,7 @@ Must-read papers on deep learning model calibration methods.
 ## New Calibration Metric
 - NeurIPS 2019 [Verified uncertainty calibration](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration)
 - arXiv 2021 [Mitigating bias in calibration error estimation](https://arxiv.org/abs/2012.08668)
+- AAAI 2015 [Obtaining Well Calibrated Probabilities Using Bayesian Binning](https://people.cs.pitt.edu/~milos/research/AAAI_Calibration.pdf)
 
 ## Application
 
