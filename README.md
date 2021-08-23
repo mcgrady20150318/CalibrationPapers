@@ -47,4 +47,5 @@ Must-read papers on deep learning model calibration methods.
 - EMNLP 2020 [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data](https://aclanthology.org/2020.emnlp-main.102.pdf)
 - TACL 2020 [How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering](https://aclanthology.org/2020.tacl-1.28)
 - arXiv 2021 [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690)
+- arXiv 2019 [ Calibration of encoder decoder models for neural machine translation](https://arxiv.org/abs/1903.00802)
 
