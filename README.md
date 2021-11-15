@@ -15,6 +15,7 @@ Must-read papers on deep learning model calibration methods.
 - ICLR 2021 [EVALUATION OF NEURAL ARCHITECTURES TRAINED WITH SQUARE LOSS VS CROSS-ENTROPY IN CLASSIFICATION TASKS](https://openreview.net/forum?id=hsFN92eQEla)
 
 ## Post Hoc
+- CVPR 2021 [Post-hoc Uncertainty Calibration for Domain Drift Scenarios](https://openaccess.thecvf.com/content/CVPR2021/papers/Tomani_Post-Hoc_Uncertainty_Calibration_for_Domain_Drift_Scenarios_CVPR_2021_paper.pdf)
 - ICML 2017 [On calibration of modern neural networks](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf)
 - arXiv 2019 [Attended Temperature Scaling: A Practical Approach for Calibrating Deep Neural Networks](https://arxiv.org/abs/1810.11586)
 - arXiv 2020 [Post-hoc Calibration of Neural Networks](https://arxiv.org/abs/2006.12807)
