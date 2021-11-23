@@ -24,13 +24,17 @@ Must-read papers on deep learning model calibration methods.
 - AISTATS 2020 [Non-parametric calibration for classification](http://proceedings.mlr.press/v108/wenger20a/wenger20a.pdf)
 - ICLR 2021 [Calibration of neural networks using splines](https://openreview.net/forum?id=eQe8DEWNN2W)
 
-## Ensemble Multiple Prediction
+## Uncertainty Calibration 
+
+### Ensemble
 - NeurIPS 2017 [Simple and scalable predictive uncertainty estimation using deep ensembles](https://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf)
 - ICLR 2020 [BatchEnsemble: an alternative approach to efficient ensemble and lifelong learning](https://openreview.net/pdf?id=Sklf1yrYDr)
+
+### Bayesian Neural Network
 - ICML 2020 [Efficient and scalable bayesian neural nets with rank-1 factors](http://proceedings.mlr.press/v119/dusenberry20a/dusenberry20a.pdf)
 - ICML 2016 [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html)
 
-## New Calibration Metric
+## Calibration Measure
 - NeurIPS 2019 [Verified uncertainty calibration](https://papers.nips.cc/paper/8635-verified-uncertainty-calibration)
 - arXiv 2021 [Mitigating bias in calibration error estimation](https://arxiv.org/abs/2012.08668)
 - AAAI 2015 [Obtaining Well Calibrated Probabilities Using Bayesian Binning](https://people.cs.pitt.edu/~milos/research/AAAI_Calibration.pdf)
